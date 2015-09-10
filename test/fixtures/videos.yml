@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  youtube_url: MyString
+  vimeo_url: MyString
+  dailymotion_url: MyString
+
+two:
+  youtube_url: MyString
+  vimeo_url: MyString
+  dailymotion_url: MyString
